@@ -65,7 +65,7 @@ class Pet:
 
 
             # Create a pet
-my_pet = Pet("Fluffy")
+my_pet = Pet("Dog")
 
 # Interact with the pet
 my_pet.play()
